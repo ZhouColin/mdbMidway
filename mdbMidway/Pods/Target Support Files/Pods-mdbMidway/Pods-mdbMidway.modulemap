@@ -1,0 +1,6 @@
+framework module Pods_mdbMidway {
+  umbrella header "Pods-mdbMidway-umbrella.h"
+
+  export *
+  module * { export * }
+}
